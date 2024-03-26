@@ -63,7 +63,7 @@ Work in progress...
 
 ## Architecture
 
-* Clean Architecture + MVVM.
+* Clean Architecture + MVVM-C.
 
 ## License
 
